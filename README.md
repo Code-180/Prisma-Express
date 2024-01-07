@@ -1,6 +1,6 @@
 # Prisma-Express
 
-##Comments
+## Comments
 
 1. npm init -y
 2. npm install express
@@ -12,11 +12,11 @@
 9. prisma generate
 10.prisma studio
 
-##EXTRA
+## EXTRA
 
 1.  Prisma schema validation
 
-##Details
+## Details
 
 // 1. Set the DATABASE_URL in the .env file to point to your existing database. If your database has no tables yet, read https://pris.ly/d/getting-started
 // 2. Set the provider of the datasource block in schema.prisma to match your database: postgresql, mysql, sqlite, sqlserver, mongodb or cockroachdb.
